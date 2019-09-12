@@ -2157,12 +2157,12 @@ body {
   background: linear-gradient(45deg, #232323, #6576aa);
 }
 .cid-rBNreEu0Yp {
-  background-image: url("../../../assets/images/03.jpg");
+  background: linear-gradient(45deg, #232323, #6576aa);
 }
 .cid-rBNsHWxhxd {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/03.jpg");
+  background-color: #0f7699;
 }
 .cid-rBNsHWxhxd h4 {
   font-weight: 500;
