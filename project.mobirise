@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DPBP",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,8 @@
     "versionFirst": "4.8.1",
     "siteFonts": [],
     "uniqCompNum": 10,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
